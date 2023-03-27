@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0c052a7.css",
+    "main.js": "/static/js/main.fbe1e846.js",
+    "static/media/stars.jpg": "/static/media/stars.68a081fec8a20fb242ea.jpg",
+    "static/media/water.png": "/static/media/water.47373da241ce96771c7f.png",
+    "static/media/cocoa.png": "/static/media/cocoa.f62eda73dde8209111df.png",
+    "static/media/tea.png": "/static/media/tea.67d51d05b730f3734047.png",
+    "static/media/beer.png": "/static/media/beer.6b6f4b3813b7106c201a.png",
+    "static/media/orangeJuice.png": "/static/media/orangeJuice.0e13a39db65e10f87758.png",
+    "static/media/milk.png": "/static/media/milk.e06b6e9592697860e85c.png",
+    "static/media/cola.png": "/static/media/cola.9f3f25afa8b3d5bb84b1.png",
+    "static/media/coffee.png": "/static/media/coffee.cf212b069ac39ec19294.png",
+    "static/media/coctail.png": "/static/media/coctail.8f0ef6dacc4fb3f9a36b.png",
+    "static/media/moon.png": "/static/media/moon.e6c50f32924b9b2c33e5.png",
+    "static/media/bottle3.svg": "/static/media/bottle3.7323c9e50a90f8dcf95e431a00e653dc.svg",
+    "index.html": "/index.html",
+    "static/media/plus.svg": "/static/media/plus.76c59027fc70767afb422154ecbd88aa.svg",
+    "main.f0c052a7.css.map": "/static/css/main.f0c052a7.css.map",
+    "main.fbe1e846.js.map": "/static/js/main.fbe1e846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0c052a7.css",
+    "static/js/main.fbe1e846.js"
+  ]
+}
